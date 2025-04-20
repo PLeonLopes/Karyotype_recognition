@@ -1,0 +1,143 @@
+Relatório de Análise de Cariótipo
+=================================
+
+Número total de cromossomos identificados: 379
+
+Grupo 1:
+  Némero de cromossomos: 1
+  Comprimento médio: 735.22
+  éndice centromérico médio: 0.51
+  Némero médio de bandas: 40.00
+
+Grupo 2:
+  Némero de cromossomos: 73
+  Comprimento médio: 12.28
+  éndice centromérico médio: 0.98
+  Némero médio de bandas: 0.07
+
+Grupo 3:
+  Némero de cromossomos: 4
+  Comprimento médio: 23.92
+  éndice centromérico médio: 0.48
+  Némero médio de bandas: 0.75
+
+Grupo 4:
+  Némero de cromossomos: 30
+  Comprimento médio: 40.40
+  éndice centromérico médio: 0.96
+  Némero médio de bandas: 1.50
+
+Grupo 5:
+  Némero de cromossomos: 14
+  Comprimento médio: 6.97
+  éndice centromérico médio: 0.98
+  Némero médio de bandas: 0.00
+
+Grupo 6:
+  Némero de cromossomos: 7
+  Comprimento médio: 16.19
+  éndice centromérico médio: 0.84
+  Némero médio de bandas: 0.14
+
+Grupo 7:
+  Némero de cromossomos: 1
+  Comprimento médio: 515.77
+  éndice centromérico médio: 0.57
+  Némero médio de bandas: 42.00
+
+Grupo 8:
+  Némero de cromossomos: 3
+  Comprimento médio: 147.33
+  éndice centromérico médio: 0.82
+  Némero médio de bandas: 9.33
+
+Grupo 9:
+  Némero de cromossomos: 20
+  Comprimento médio: 10.57
+  éndice centromérico médio: 0.99
+  Némero médio de bandas: 0.10
+
+Grupo 10:
+  Némero de cromossomos: 5
+  Comprimento médio: 18.70
+  éndice centromérico médio: 0.52
+  Némero médio de bandas: 0.20
+
+Grupo 11:
+  Némero de cromossomos: 44
+  Comprimento médio: 24.49
+  éndice centromérico médio: 0.98
+  Némero médio de bandas: 0.82
+
+Grupo 12:
+  Némero de cromossomos: 11
+  Comprimento médio: 38.39
+  éndice centromérico médio: 0.73
+  Némero médio de bandas: 1.45
+
+Grupo 13:
+  Némero de cromossomos: 1
+  Comprimento médio: 161.22
+  éndice centromérico médio: 0.32
+  Némero médio de bandas: 4.00
+
+Grupo 14:
+  Némero de cromossomos: 12
+  Comprimento médio: 78.22
+  éndice centromérico médio: 0.93
+  Némero médio de bandas: 3.83
+
+Grupo 15:
+  Némero de cromossomos: 3
+  Comprimento médio: 9.87
+  éndice centromérico médio: 0.37
+  Némero médio de bandas: 0.00
+
+Grupo 16:
+  Némero de cromossomos: 57
+  Comprimento médio: 10.34
+  éndice centromérico médio: 0.99
+  Némero médio de bandas: 0.04
+
+Grupo 17:
+  Némero de cromossomos: 5
+  Comprimento médio: 12.92
+  éndice centromérico médio: 0.83
+  Némero médio de bandas: 0.20
+
+Grupo 18:
+  Némero de cromossomos: 13
+  Comprimento médio: 6.42
+  éndice centromérico médio: 0.98
+  Némero médio de bandas: 0.00
+
+Grupo 19:
+  Némero de cromossomos: 4
+  Comprimento médio: 64.30
+  éndice centromérico médio: 0.59
+  Némero médio de bandas: 3.25
+
+Grupo 20:
+  Némero de cromossomos: 1
+  Comprimento médio: 5.98
+  éndice centromérico médio: 0.58
+  Némero médio de bandas: 0.00
+
+Grupo 21:
+  Némero de cromossomos: 54
+  Comprimento médio: 17.13
+  éndice centromérico médio: 0.97
+  Némero médio de bandas: 0.26
+
+Grupo 22:
+  Némero de cromossomos: 15
+  Comprimento médio: 25.80
+  éndice centromérico médio: 0.90
+  Némero médio de bandas: 0.73
+
+Grupo 23:
+  Némero de cromossomos: 1
+  Comprimento médio: 223.68
+  éndice centromérico médio: 0.82
+  Némero médio de bandas: 3.00
+

@@ -1,0 +1,143 @@
+Relat�rio de An�lise de Cari�tipo
+=================================
+
+N�mero total de cromossomos identificados: 41
+
+Grupo 1:
+  N�mero de cromossomos: 1
+  Comprimento m�dio: 266.04
+  �ndice centrom�rico m�dio: 0.85
+  N�mero m�dio de bandas: 10.00
+
+Grupo 2:
+  N�mero de cromossomos: 2
+  Comprimento m�dio: 27.99
+  �ndice centrom�rico m�dio: 0.97
+  N�mero m�dio de bandas: 1.50
+
+Grupo 3:
+  N�mero de cromossomos: 3
+  Comprimento m�dio: 127.70
+  �ndice centrom�rico m�dio: 0.90
+  N�mero m�dio de bandas: 6.00
+
+Grupo 4:
+  N�mero de cromossomos: 3
+  Comprimento m�dio: 10.34
+  �ndice centrom�rico m�dio: 0.98
+  N�mero m�dio de bandas: 0.00
+
+Grupo 5:
+  N�mero de cromossomos: 1
+  Comprimento m�dio: 232.76
+  �ndice centrom�rico m�dio: 0.77
+  N�mero m�dio de bandas: 10.00
+
+Grupo 6:
+  N�mero de cromossomos: 4
+  Comprimento m�dio: 61.31
+  �ndice centrom�rico m�dio: 0.97
+  N�mero m�dio de bandas: 0.75
+
+Grupo 7:
+  N�mero de cromossomos: 2
+  Comprimento m�dio: 190.45
+  �ndice centrom�rico m�dio: 0.71
+  N�mero m�dio de bandas: 9.00
+
+Grupo 8:
+  N�mero de cromossomos: 1
+  Comprimento m�dio: 13.87
+  �ndice centrom�rico m�dio: 0.95
+  N�mero m�dio de bandas: 0.00
+
+Grupo 9:
+  N�mero de cromossomos: 1
+  Comprimento m�dio: 206.14
+  �ndice centrom�rico m�dio: 0.95
+  N�mero m�dio de bandas: 3.00
+
+Grupo 10:
+  N�mero de cromossomos: 3
+  Comprimento m�dio: 138.69
+  �ndice centrom�rico m�dio: 0.94
+  N�mero m�dio de bandas: 4.00
+
+Grupo 11:
+  N�mero de cromossomos: 2
+  Comprimento m�dio: 197.87
+  �ndice centrom�rico m�dio: 0.79
+  N�mero m�dio de bandas: 14.00
+
+Grupo 12:
+  N�mero de cromossomos: 1
+  Comprimento m�dio: 59.75
+  �ndice centrom�rico m�dio: 0.88
+  N�mero m�dio de bandas: 3.00
+
+Grupo 13:
+  N�mero de cromossomos: 3
+  Comprimento m�dio: 100.81
+  �ndice centrom�rico m�dio: 0.97
+  N�mero m�dio de bandas: 1.67
+
+Grupo 14:
+  N�mero de cromossomos: 3
+  Comprimento m�dio: 14.85
+  �ndice centrom�rico m�dio: 0.97
+  N�mero m�dio de bandas: 0.00
+
+Grupo 15:
+  N�mero de cromossomos: 1
+  Comprimento m�dio: 291.76
+  �ndice centrom�rico m�dio: 0.74
+  N�mero m�dio de bandas: 24.00
+
+Grupo 16:
+  N�mero de cromossomos: 1
+  Comprimento m�dio: 164.57
+  �ndice centrom�rico m�dio: 0.87
+  N�mero m�dio de bandas: 7.00
+
+Grupo 17:
+  N�mero de cromossomos: 2
+  Comprimento m�dio: 218.24
+  �ndice centrom�rico m�dio: 0.89
+  N�mero m�dio de bandas: 9.50
+
+Grupo 18:
+  N�mero de cromossomos: 1
+  Comprimento m�dio: 145.79
+  �ndice centrom�rico m�dio: 0.77
+  N�mero m�dio de bandas: 8.00
+
+Grupo 19:
+  N�mero de cromossomos: 1
+  Comprimento m�dio: 201.27
+  �ndice centrom�rico m�dio: 0.84
+  N�mero m�dio de bandas: 14.00
+
+Grupo 20:
+  N�mero de cromossomos: 1
+  Comprimento m�dio: 26.92
+  �ndice centrom�rico m�dio: 0.97
+  N�mero m�dio de bandas: 2.00
+
+Grupo 21:
+  N�mero de cromossomos: 1
+  Comprimento m�dio: 306.40
+  �ndice centrom�rico m�dio: 0.85
+  N�mero m�dio de bandas: 17.00
+
+Grupo 22:
+  N�mero de cromossomos: 1
+  Comprimento m�dio: 54.29
+  �ndice centrom�rico m�dio: 0.93
+  N�mero m�dio de bandas: 3.00
+
+Grupo 23:
+  N�mero de cromossomos: 2
+  Comprimento m�dio: 146.84
+  �ndice centrom�rico m�dio: 0.71
+  N�mero m�dio de bandas: 6.00
+
