@@ -12,3 +12,6 @@ __pycache__/
 flask_session/
 *.py[cod]
 *.pyo
+
+# SAM2 models           -> vit-b pesa 370mb
+*/models
