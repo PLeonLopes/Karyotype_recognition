@@ -47,6 +47,10 @@ SAM	->	[Segment Anything](https://segment-anything.com/)
 
 - [I2K Workshop: Segment Anything for Microscopy](https://github.com/computational-cell-analytics/micro-sam/tree/master/workshops/i2k_2024) | Dificuldade de Implementação e adaptação
 
+- [SAM-Adapter-PyTorch](https://github.com/tianrun-chen/SAM-Adapter-PyTorch) | Diferentes tipos de Imagens/Exames
+
+- [SegDrawer](https://github.com/lujiazho/SegDrawer?tab=readme-ov-file) | Diferente abordagem na segmentação (Semi-manual)
+
 - [Generate Overllap chromosomes and validate them](https://www.kaggle.com/code/gnomows/generate-overllap-chromosomes-and-validate-them)    | Específico para "Overlapping"
 
 - [Generating overlapping chromosomes](https://www.kaggle.com/code/jeanpat/generating-overlapping-chromosomes)  | Específico para "Overlapping"
