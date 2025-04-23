@@ -33,6 +33,8 @@ SAM	->	[Segment Anything](https://segment-anything.com/)
 
 - [Livro: "Advances in Biomedical Engineering"](https://books.google.fr/books?id=AEO51IEYcZ4C&lpg=PA194&dq=chromosome%20overlapping%20resolution%20piper%20granum&hl=fr&pg=PA175#v=onepage&q=chromosome%20overlapping%20resolution%20piper%20granum&f=false)
 
+- [TCC: "Segmentação de Imagens de Cromossomos Aplicado na Dosimetria Biológica"](http://www.bcc.ufrpe.br/sites/www.bcc.ufrpe.br/files/TCCAngelica.pdf)
+
 ---
 
 ### Projetos Similares
