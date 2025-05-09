@@ -57,6 +57,8 @@ SAM	->	[Segment Anything](https://segment-anything.com/)
 
 - [Generating overlapping chromosomes](https://www.kaggle.com/code/jeanpat/generating-overlapping-chromosomes)  | Específico para "Overlapping"
 
+- [SAM2-UNet: Segment Anything 2 Makes Strong Encoder for Natural and Medical Image Segmentation](https://github.com/WZH0120/SAM2-UNet) | Testes com Imagens Médicas
+  
 ---
 
 ### Datasets
