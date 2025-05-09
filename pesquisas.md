@@ -58,7 +58,19 @@ SAM	->	[Segment Anything](https://segment-anything.com/)
 - [Generating overlapping chromosomes](https://www.kaggle.com/code/jeanpat/generating-overlapping-chromosomes)  | Específico para "Overlapping"
 
 - [SAM2-UNet: Segment Anything 2 Makes Strong Encoder for Natural and Medical Image Segmentation](https://github.com/WZH0120/SAM2-UNet) | Testes com Imagens Médicas
+
+- ❗ [The implementation of the technical report: "Customized Segment Anything Model for Medical Image Segmentation"](https://github.com/hitachinsk/SAMed) | Segmentação de Imagens Médicas (Implementação de Paper)
   
+- [A collection of project, papers, and source code for Meta AI's Segment Anything Model (SAM) and related studies.](https://github.com/Vision-Intelligence-and-Robots-Group/Awesome-Segment-Anything) | Compilado de Utilizações do SAM
+
+- [SegmentAnyBone: A Universal Model that Segments Any Bone at Any Location on MRI](https://github.com/mazurowski-lab/SegmentAnyBone) | Aplicação do SAM para detecção de ossos em Ressonâncias Magnéticas
+
+- [A PoC to run Segment Anything Model (SAM) entirely in the browser without any backend](https://github.com/sunu/SAM-in-Browser) | Aplicação do SAM no browser
+
+- [awesome-SAM-Medical-Images](https://github.com/AxDante/awesome-segment-anything-medical-images) | Compilado de Utilizações do SAM em imagens de Exames médicos
+
+- [Developed a custom application of the Segment Anything Model (SAM) for breast cancer tissue segmentation, utilizing Hugging Face's Transformers and fine-tuning the decoder to predict segmentation masks in medical imaging.](https://github.com/AliAmini93/SAM-Breast-Tumor-Segmentation) | Aplicação do SAM para Câncer de Mama
+
 ---
 
 ### Datasets
